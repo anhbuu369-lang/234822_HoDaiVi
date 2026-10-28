@@ -1,9 +1,9 @@
-# 234822_HoDaiVi - H? th?ng qu?n l˝ s·ch trÍn n?n t?ng d·m m‚y
+# 234822_HoDaiVi - H·ªá th·ªëng qu·∫£n l√Ω s√°ch tr√™n n·ªÅn t·∫£ng ƒë√°m m√¢y
 
-## –? t‡i
-X‚y d?ng v‡ tri?n khai h? th?ng qu?n l˝ s·ch trÍn n?n t?ng d·m m‚y.
+## √ê·ªÅ t√†i
+X√¢y d·ª±ng v√† tri·ªÉn khai h·ªá th·ªëng qu·∫£n l√Ω s√°ch tr√™n n·ªÅn t·∫£ng d√°m m√¢y.
 
-## CÙng ngh? s? d?ng
+## C√¥ng ngh·ªá s·ª≠ d·ª•ng
 - React
 - Node.js
 - Express
@@ -13,15 +13,15 @@ X‚y d?ng v‡ tri?n khai h? th?ng qu?n l˝ s·ch trÍn n?n t?ng d·m m‚y.
 - Render
 - GitHub
 
-## C?u tr˙c d? ·n
+## C·∫•u tr√∫c d·ª± √°n
 - frontend: giao di?n React
 - backend: REST API Node.js/Express
-- MongoDB Atlas: co s? d? li?u cloud
+- MongoDB Atlas: co s·ªü d·ªØ li·ªáu cloud
 
-## Ch?c nang
-- Xem danh s·ch s·ch
-- Xem chi ti?t s·ch
-- ThÍm s·ch
-- C?p nh?t s·ch
-- XÛa s·ch
-- TÏm ki?m s·ch
+## Ch·ª©c nƒÉng
+- Xem danh s√°ch s√°ch
+- Xem chi ti·∫øt s√°ch
+- Th√™m s√°ch
+- C·∫≠p nh·∫≠t s√°ch
+- X√≥a s√°ch
+- T√¨m ki·∫øm s√°ch
